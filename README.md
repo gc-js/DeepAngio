@@ -1,4 +1,4 @@
-# DeepACE
+# DeepAngio
 
 ## 1. ACE identification model
 The model can be downloaded from [here](https://huggingface.co/spaces/oucgc1996/DeepACE/resolve/main/best_model.pth?download=true)
